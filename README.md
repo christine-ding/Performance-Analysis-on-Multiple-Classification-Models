@@ -1,2 +1,3 @@
 # Performance-Analysis-on-Multiple-Classification-Models
-Python Mini-project - sklearn practice
+Python Machine Learning Mini-Project - sklearn practice
+
